@@ -2,7 +2,7 @@
 This is a team project that gives an efficient algorithm performing LDPC decoding for BEC. It has working codes for both Soft and Hard Decision Decoding.
 
 ## Team: 3
-- Vansh Joshi - Khushi Shah - Parth Parmar
+- Parth Parmar - Vansh Joshi - Khushi Shah
 
 
 Low Density Parity Check decoding is used often in the communication thoery for the transmission of encoded messages. Low Density Parity Code implies that the number of variable nodes connected to the check nodes is very less compared to the total length of the transmitted message.
